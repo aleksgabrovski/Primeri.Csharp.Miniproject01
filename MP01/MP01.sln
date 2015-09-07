@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{F79CCE4E-1260-4E97-B303-AE59F6F386E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserInput", "UserInput\UserInput.csproj", "{F09DE3FE-2462-41E2-AF8A-347BA1E9471B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "About", "About\About.csproj", "{E6A0CA02-177E-43B7-AAA1-1A7C6DA7990C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colors", "Colors\Colors.csproj", "{0C57E25C-4FA0-40C9-9020-471DAA076A7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculations", "Calculations\Calculations.csproj", "{66A11207-F21D-4F14-A2B4-D3A077882025}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C57E25C-4FA0-40C9-9020-471DAA076A7C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0C57E25C-4FA0-40C9-9020-471DAA076A7C}.Debug|x86.Build.0 = Debug|Any CPU
+		{0C57E25C-4FA0-40C9-9020-471DAA076A7C}.Release|x86.ActiveCfg = Release|Any CPU
+		{0C57E25C-4FA0-40C9-9020-471DAA076A7C}.Release|x86.Build.0 = Release|Any CPU
+		{66A11207-F21D-4F14-A2B4-D3A077882025}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{66A11207-F21D-4F14-A2B4-D3A077882025}.Debug|x86.Build.0 = Debug|Any CPU
+		{66A11207-F21D-4F14-A2B4-D3A077882025}.Release|x86.ActiveCfg = Release|Any CPU
+		{66A11207-F21D-4F14-A2B4-D3A077882025}.Release|x86.Build.0 = Release|Any CPU
+		{E6A0CA02-177E-43B7-AAA1-1A7C6DA7990C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E6A0CA02-177E-43B7-AAA1-1A7C6DA7990C}.Debug|x86.Build.0 = Debug|Any CPU
+		{E6A0CA02-177E-43B7-AAA1-1A7C6DA7990C}.Release|x86.ActiveCfg = Release|Any CPU
+		{E6A0CA02-177E-43B7-AAA1-1A7C6DA7990C}.Release|x86.Build.0 = Release|Any CPU
+		{F09DE3FE-2462-41E2-AF8A-347BA1E9471B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F09DE3FE-2462-41E2-AF8A-347BA1E9471B}.Debug|x86.Build.0 = Debug|Any CPU
+		{F09DE3FE-2462-41E2-AF8A-347BA1E9471B}.Release|x86.ActiveCfg = Release|Any CPU
+		{F09DE3FE-2462-41E2-AF8A-347BA1E9471B}.Release|x86.Build.0 = Release|Any CPU
+		{F79CCE4E-1260-4E97-B303-AE59F6F386E1}.Debug|x86.ActiveCfg = Debug|x86
+		{F79CCE4E-1260-4E97-B303-AE59F6F386E1}.Debug|x86.Build.0 = Debug|x86
+		{F79CCE4E-1260-4E97-B303-AE59F6F386E1}.Release|x86.ActiveCfg = Release|x86
+		{F79CCE4E-1260-4E97-B303-AE59F6F386E1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
