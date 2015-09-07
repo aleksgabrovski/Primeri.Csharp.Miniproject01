@@ -1,2 +1,10 @@
-# Primeri.Csharp.Miniproject01
-Miniproject01 - Kalkulator za zemni raboti
+# Stroitelen kalkulator za izkopni raboti
+
+## Opisanie
+
+## Vklucheni komandi
+
+## Nachini na instalaciq
+
+
+
